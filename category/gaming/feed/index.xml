@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gaming &#8211; wordpress</title>
+	<atom:link href="/Design-Studio/category/gaming/feed/" rel="self" type="application/rss+xml" />
+	<link>/Design-Studio</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 21 Jan 2013 17:45:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>Magna fringilla quis</title>
+		<link>/Design-Studio/2013/01/21/magna-fringilla-quis-condimentum-2/</link>
+					<comments>/Design-Studio/2013/01/21/magna-fringilla-quis-condimentum-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Jan 2013 17:45:17 +0000</pubDate>
+				<category><![CDATA[Gaming]]></category>
+		<guid isPermaLink="false">http://themenectar.com/demo/salient/?p=124</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ullamcorper suscipit mi, id convallis risus ullamcorper eget. Curabitur ultricies elit lacinia arcu ullamcorper adipiscing. Integer velit dui, gravida semper commodo...]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ullamcorper suscipit mi, id convallis risus ullamcorper eget. Curabitur ultricies elit lacinia arcu ullamcorper adipiscing. Integer velit dui, gravida semper commodo vel <span id="more-2328"></span></p>
+<h4>Illustration by Julian Burford</h4>
+<p>Nunc interdum porta ligula, eu malesuada nunc tristique eu. Integer sed mi ac velit congue vulputate sed quis lacus. Fusce tellus sem, ultricies consequat porta at, ultrices in odio. Nullam a sapien vitae erat porta faucibus rhoncus eleifend dolor. Mauris semper rutrum ante a auctor. Nullam non arcu erat, vel sollicitudin felis. Nam erat nisl, mattis euismod lacinia at, tempus quis nunc.</p>
+<p>Quisque at dolor venenatis justo fringilla dignissim ut id eros. Quisque non elit id purus feugiat vestibulum. Phasellus eget sodales neque. Morbi eget odio nec justo consequat gravida. Phasellus dolor nisl, venenatis eget euismod et, dapibus et purus. Maecenas interdum nisi a dolor facilisis eu laoreet mi facilisis. Mauris pharetra interdum lorem eu venenatis. Praesent est diam, fringilla in hendrerit vel, ullamcorper et mauris. Vivamus risus mi, lobortis ut congue vitae, vestibulum vitae augue. Maecenas nunc odio, pulvinar id vulputate nec, porttitor at quam. Suspendisse vulputate diam eu leo bibendum feugiat. Integer luctus orci a nunc consequat eleifend. Nam tempus quam sed felis tristique faucibus. Aliquam facilisis vehicula malesuada.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/Design-Studio/2013/01/21/magna-fringilla-quis-condimentum-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

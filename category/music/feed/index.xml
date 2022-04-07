@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Music &#8211; wordpress</title>
+	<atom:link href="/Design-Studio/category/music/feed/" rel="self" type="application/rss+xml" />
+	<link>/Design-Studio</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 26 Jan 2013 16:19:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>Nulla fringilla magna</title>
+		<link>/Design-Studio/2013/01/26/nulla-fringilla-magna/</link>
+					<comments>/Design-Studio/2013/01/26/nulla-fringilla-magna/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 26 Jan 2013 16:19:14 +0000</pubDate>
+				<category><![CDATA[Music]]></category>
+		<guid isPermaLink="false">http://themenectar.com/demo/salient/?p=82</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae dui et nunc ornare vulputate non fringilla massa. Praesent sit amet erat sapien, auctor consectetur ligula. Lorem ipsum dolor sit...]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae dui et nunc ornare vulputate non fringilla massa. Praesent sit amet erat sapien, auctor consectetur ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non ligula augue. Integer justo arcu, tempor eu venenatis non, sagittis nec lacus.  Morbi vitae dui et nunc ornare vulputate non fringilla massa. Praesent sit amet erat sapien, auctor consectetur ligula.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/Design-Studio/2013/01/26/nulla-fringilla-magna/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Quisque sit amet sapien et lacus</title>
+		<link>/Design-Studio/2013/01/04/quisque-sit-amet-sapien-et-lacus/</link>
+					<comments>/Design-Studio/2013/01/04/quisque-sit-amet-sapien-et-lacus/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 04 Jan 2013 17:19:25 +0000</pubDate>
+				<category><![CDATA[Music]]></category>
+		<guid isPermaLink="false">http://themenectar.com/demo/salient/?p=108</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/Design-Studio/2013/01/04/quisque-sit-amet-sapien-et-lacus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

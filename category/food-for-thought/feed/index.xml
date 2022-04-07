@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Food for thought &#8211; wordpress</title>
+	<atom:link href="/Design-Studio/category/food-for-thought/feed/" rel="self" type="application/rss+xml" />
+	<link>/Design-Studio</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 23 Mar 2013 17:20:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>Amazing standard post</title>
+		<link>/Design-Studio/2013/03/23/amazing-post-with-all-the-goodies/</link>
+					<comments>/Design-Studio/2013/03/23/amazing-post-with-all-the-goodies/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 23 Mar 2013 17:20:09 +0000</pubDate>
+				<category><![CDATA[Food for thought]]></category>
+		<category><![CDATA[Art]]></category>
+		<category><![CDATA[Awesome]]></category>
+		<category><![CDATA[Cars]]></category>
+		<category><![CDATA[Classic]]></category>
+		<category><![CDATA[Custom]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Epic]]></category>
+		<category><![CDATA[Funny]]></category>
+		<category><![CDATA[Gaming Tips]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Standard]]></category>
+		<category><![CDATA[ThemeNectar]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<guid isPermaLink="false">http://themenectar.com/demo/salient/?p=110</guid>
+
+					<description><![CDATA[In varius varius justo, eget ultrices mauris rhoncus non. Morbi tristique, mauris eu imperdiet bibendum, velit diam iaculis velit, in ornare massa enim at lorem. Etiam risus diam, porttitor vitae...]]></description>
+										<content:encoded><![CDATA[<p>In varius varius justo, eget ultrices mauris rhoncus non. Morbi tristique, mauris eu imperdiet bibendum, velit diam iaculis velit, in ornare massa enim at lorem. Etiam risus diam, porttitor vitae ultrices quis, dapibus id dolor. Morbi venenatis lacinia rhoncus. <span id="more-110"></span></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non enim ut enim fringilla adipiscing id in lorem. Quisque aliquet neque vitae lectus tempus consectetur. Aliquam erat volutpat. Nunc eu nibh nulla, id cursus arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam at velit nisl. Aenean vitae est nisl. Cras molestie molestie nisl vel imperdiet. Donec vel mi sem.</p>
+<h4>Luctus fermentum commodo</h4>
+<p>Nulla sed mi leo, sit amet molestie nulla. Phasellus lobortis blandit ipsum, at adipiscing eros porta quis. Phasellus in nisi ipsum, quis dapibus magna. Phasellus odio dolor, pretium sit amet aliquam a, gravida eget dui. Pellentesque eu ipsum et quam faucibus scelerisque vitae ut ligula. Ut luctus fermentum commodo. Mauris eget justo turpis, eget fringilla mi. Duis lobortis cursus mi vel tristique. Maecenas eu lorem hendrerit neque dapibus cursus id sit amet nisi. Proin rhoncus semper sem nec aliquet.</p>
+<blockquote><p>Nulla facilisi. Vestibulum pretium, dui eu aliquam faucibus, est dui hendrerit nulla, mattis semper turpis mauris eget tellus. Nulla accumsan rutrum nibh, sed eleifend felis blandit.</p></blockquote>
+<p>Integer vel libero arcu, egestas tempor ipsum. Vestibulum id dolor aliquet dolor fringilla ornare. Nunc non massa erat. Vivamus odio sem, rhoncus vel bibendum vitae, euismod a urna. Aliquam erat volutpat. Aenean non lorem arcu. Phasellus in neque nulla, sed sodales ipsum. Morbi a massa sed sapien vulputate lacinia. Vivamus et urna vitae felis malesuada aliquet sit amet et metus.</p>
+<ul>
+<li>Consectetur adipiscing elit vtae elit libero</li>
+<li>Nullam id dolor id eget lacinia odio posuere erat a ante</li>
+<li>Integer posuere erat dapibus posuere velit</li>
+</ul>
+<p>Nulla sed mi leo, sit amet molestie nulla. Phasellus lobortis blandit ipsum, at adipiscing eros porta quis. Phasellus in nisi ipsum, quis dapibus magna. Phasellus odio dolor, pretium sit amet aliquam a, gravida eget dui. Pellentesque eu ipsum et quam faucibus scelerisque vitae ut ligula. Ut luctus fermentum commodo. Mauris eget justo turpis, eget fringilla mi. Duis lobortis cursus mi vel tristique. Maecenas eu lorem hendrerit neque dapibus cursus id sit amet nisi. Proin rhoncus semper sem nec aliquet. Aenean lacinia bibendum nulla sed consectetur. Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.</p>
+<p><code><br />
+.some-style {<br />
+width: 960px;<br />
+height: 200px;<br />
+margin: 0 auto;<br />
+background-color: #000000;<br />
+}<br />
+</code></p>
+<p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non enim ut enim fringilla adipiscing id in lorem. Quisque aliquet neque vitae lectus tempus consectetur. Aliquam erat volutpat. Nunc eu nibh nulla, id cursus arcu.</strong></p>
+<p><em>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam at velit nisl. Aenean vitae est nisl. Cras molestie molestie nisl vel imperdiet. Donec vel mi sem.</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/Design-Studio/2013/03/23/amazing-post-with-all-the-goodies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ambrose Redmoon</title>
+		<link>/Design-Studio/2013/03/06/ambrose-redmoon-2/</link>
+					<comments>/Design-Studio/2013/03/06/ambrose-redmoon-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 06 Mar 2013 14:18:41 +0000</pubDate>
+				<category><![CDATA[Food for thought]]></category>
+		<guid isPermaLink="false">http://themenectar.com/demo/salient/?p=106</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/Design-Studio/2013/03/06/ambrose-redmoon-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Sweetest WordPress Themes Around.</title>
+		<link>/Design-Studio/2012/12/29/premium-wordpress-themes-bursting-with-quality/</link>
+					<comments>/Design-Studio/2012/12/29/premium-wordpress-themes-bursting-with-quality/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 29 Dec 2012 17:59:15 +0000</pubDate>
+				<category><![CDATA[Food for thought]]></category>
+		<guid isPermaLink="false">http://themenectar.com/demo/salient/?p=137</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/Design-Studio/2012/12/29/premium-wordpress-themes-bursting-with-quality/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Aenean laoreet tortor</title>
+		<link>/Design-Studio/2012/12/08/aenean-laoreet-tortor/</link>
+					<comments>/Design-Studio/2012/12/08/aenean-laoreet-tortor/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 08 Dec 2012 13:55:44 +0000</pubDate>
+				<category><![CDATA[Food for thought]]></category>
+		<guid isPermaLink="false">http://themenectar.com/demo/salient/?p=559</guid>
+
+					<description><![CDATA[Vivamus risus mi, lobortis ut congue vitae, vestibulum vitae augue. Maecenas nunc odio, pulvinar id vulputate nec, porttitor at quam. Suspendisse vulputate diam eu leo bibendum feugiat. Lorem ipsum dolor...]]></description>
+										<content:encoded><![CDATA[<p>Vivamus risus mi, lobortis ut congue vitae, vestibulum vitae augue. Maecenas nunc odio, pulvinar id vulputate nec, porttitor at quam. Suspendisse vulputate diam eu leo bibendum feugiat.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non ligula augue. Praesent imperdiet magna at risus lobortis ac accumsan lorem ornare Cras sed lobortis libero. Pellentesque arcu lacus, dignissim ut porta in, interdum vel risus. Curabitur non est purus. Ut adipiscing purus augue, quis elementum dolor convallis id.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/Design-Studio/2012/12/08/aenean-laoreet-tortor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
