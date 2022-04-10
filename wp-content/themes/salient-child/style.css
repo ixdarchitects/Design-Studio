@@ -1,14 +1,36 @@
 /*
-Theme Name: Salient Child Theme | Shared by WPTry.org
-Description: This is a custom child theme for Salient
-Theme URI:   https://themeforest.net/item/salient-responsive-multipurpose-theme/4363266
-Author: ThemeNectar
-Author URI:  https://themeforest.net/user/themenectar
+Theme Name: IXD Architects
+Theme URL: http://ixdarchitects.org/salient-child/
+Descreption: IXD Architects Child Theme 
+Author: Kai Hu
 Template: salient
-Version: 1.0
+Version: 20181130
 */
 
+@import url("/Design-Studio/wp-content/themes/salient/style.css");
 
+/* Navigation Height */
+#header-outer {
+	padding-top: 10px!important;
+}
+.menu-item a {
+	padding-bottom: 20px!important;
+}
+/* Home Page */
+.swiper-slide .content h2 {
+    text-shadow: 5px 5px 25px #000000;
+} /* add shadows to the slider title */
 
+/* About Page */
+.nectar-icon-list-item {
+    margin-bottom: 20px;
+} /* make icon list item margin bottom smaller */
 
+/* Work Page */
+.portfolio-filters-inline .container > ul a, .portfolio-filters-inline .container > ul li#sort-label {
+    font-size: 14px!important;
+} /* make bigger portfolio font size */
 
+.portfolio-items[data-ps="9"] .col:hover img {
+    box-shadow: 0 20px 25px rgba(0,0,0,0.3)!important;
+} /* make hover shadow stronger */
